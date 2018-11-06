@@ -11,7 +11,7 @@
       "city":"Kansas City",
       "state":"Missouri"
     },
-    "phone": "816-607-4014",
+    "phone": "Email only for now",
     "website": "http://www.website.com",
     "social":[
       {
@@ -32,7 +32,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"What can I do? All kinds of things.",
+    "skillmessage":"What can I do? All kinds of things. ",
     "education":[
       {
         "school":"University of Kansas Coding Bootcamp",
@@ -42,23 +42,41 @@
       },
       {
         "school":"Middle Georgia State University",
-        "degree":"BS Psychology / Philosophy",
+        "degree":"BS Psychology",
         "graduated":"May 2012",
-        "description":"A double major in the thought provoking disciplines. Whats that good for you ask? Understanding people, and thinking logically. You'd be surprised how useful those skills are."
+        "description":"BS Psychology, Graduated Magna Cum Laude."
       }
     ],
     "work":[
       {
-        "company":"Freelance Development",
-        "title":"Junior bug fixer",
+        "company":"realSenses Web Development",
+        "title":"Visionary",
         "years":"October 2018 - Present",
-        "description":"Need something made? Feel fre to contact me."
+        "description":"Create experiences. Defy expectations."
+      },
+      {
+        "company":"CMHS",
+        "title":"Community Support Specialist",
+        "years":"September 2018 - Present",
+        "description":"Provide vital resources to clients living with mental illness. Work with clients to determine their needs and how best to meet them."
+      },
+      {
+        "company":"TRBHS",
+        "title":"Lead Psychiatric Technician",
+        "years":"February 2014 - June 2018",
+        "description":"Responsible for Patient Safety, Therepeutic Education, Continual Service Excellence, and Team management."
+      },
+      {
+        "company":"H&H ColorLab",
+        "title":"Color Corrector and Photo Specialities Technician",
+        "years":"July 2012 - September 2013",
+        "description":"Quality Control and Digitial Photo Manipulation for photographic orders (weddings, freelance, etc)."
       }
     ],
     "skills":[
       {
-        "name":"Adobe Photoshop / Illustrator",
-        "level":"80%"
+        "name":"Adobe Photoshop / Illustrator / XD",
+        "level":"90%"
       },
       {
         "name":"CSS3",
@@ -66,7 +84,7 @@
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"70%"
       },
       {
         "name":"js / jquery",
@@ -74,7 +92,7 @@
       },
       {
         "name":"React.js",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"MongoDB",
@@ -82,7 +100,7 @@
       },
       {
         "name":"MySQL",
-        "level":"40%"
+        "level":"50%"
       }
     ]
   },
@@ -90,35 +108,35 @@
     "projects": [
       {
         "title":"Tentacle Sound",
-        "category": "Design , Frontend/Backend",
-        "appdescription":"My personal electronic music blog.",
+        "category": "Design, Code, Manage",
+        "appdescription":"My music blog curating upcoming electronic music.",
         "image":"tentaclesound.jpg",
         "url":"http://tentaclesound.com"
       },
       {
         "title":"Mood Music",
-        "category": "Design , Frontend/Backend",
+        "category": "Design, Frontend/Backend code",
         "appdescription":"[Deprecated API] A web app that lets you hear what you feel. Facial recogniton and spotify playlsits, go try it!",
         "image":"moodmusic.jpeg",
         "url":"https://realsenses.github.io/mood-music/"
       },
       {
         "title":"GIFxpression",
-        "category": "Design , Frontend/Backend",
+        "category": "Design, Code",
         "appdescription":"Express yourself with Gifs. Made using the Giphy API",
         "image":"gifxpression.jpeg",
         "url":"https://realsenses.github.io/Giphy-API/"
       },
       {
         "title":"Electric Dreams",
-        "category": "Design , Frontend/Backend",
+        "category": "Design, Code",
         "appdescription":"Javascript RPG based around EDM Artists.",
         "image":"electricdreams.jpeg",
         "url":"https://realsenses.github.io/unit-4-game/"
       },
       {
         "title":"Octopus Trivia ",
-        "category": "Design , Frontend/Backend",
+        "category": "Design, Code",
         "appdescription":"jQuery powered Octopus Trivia game. Will you sink or swim?",
         "image":"octotrivia.jpeg",
         "url":"https://realsenses.github.io/TriviaGame/"
@@ -128,12 +146,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Testimonials for everyone! Just kidding, this is just for Andrew. He's the best.",
-        "user":"#1 Andrew Fan"
+        "text":"He is an extremely strong developer overall, front and back-end, and will overcome any challenge thrown at him. Moreover, besides his strong points as a developer, he has an impressive eye for design. For every project, he created a detailed mock-up of each page using Adobe XD which could be easily translated into code.",
+        "user":"Tara B. - KU Bootcamp Team-member"
       },
       {
-        "text":"This guy really likes octopus and can do some cool things with computers!",
-        "user":"Some random person"
+        "text":"He is a highly skilled developer, truly organized and fully capable of working on both the front-end and back-end of web applications. He's a strong javascript developer who picks up new technologies and is always looking to expand his knowledge with outside resources. With his creative mindset, we were able to expand many of our projects with distinctive ideas. ",
+        "user":"Giacomo F. - KU Bootcamp Team-member"
       }
     ]
   }
