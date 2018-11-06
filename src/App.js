@@ -24,9 +24,9 @@ class App extends Component {
 
   }
 
-  getResumeData(){
+  getResumeData(){ 
     $.ajax({
-      url:'/resumeData.json',
+      url:'https://realsenses.github.io/portfolio/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
