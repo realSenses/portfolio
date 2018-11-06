@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"Andrew",
+    "occupation":"Full Stack Web Dveloper",
+    "description":"I create experiences",
+    "image":"profilepic.jpg",
+    "bio":"Bio action goes here. Coming soon.",
+    "contactmessage":"Please contact me with any questions or oppurtunities",
+    "email": "realSenses0@gmail.com",
+    "address":{
+      "city":"Kansas City",
+      "state":"Missouri"
+    },
+    "phone": "816-607-4014",
+    "website": "http://www.website.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/realSenses",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andrew-c-4b6420154/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/realSenses",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"What can I do? All kinds of things.",
+    "education":[
+      {
+        "school":"University of Kansas Coding Bootcamp",
+        "degree":"Full Stack Development ",
+        "graduated":"October 2018",
+        "description":"Full Stack coding bootcamp teaching HTML, CSS, JS, NODE, REACT, MYSQL, MONGO, EXPRESS..."
+      },
+      {
+        "school":"Middle Georgia State University",
+        "degree":"BS Psychology / Philosophy",
+        "graduated":"May 2012",
+        "description":"A double major in the thought provoking disciplines. Whats that good for you ask? Understanding people, and thinking logically. You'd be surprised how useful those skills are."
+      }
+    ],
+    "work":[
+      {
+        "company":"Freelance Development",
+        "title":"Junior bug fixer",
+        "years":"October 2018 - Present",
+        "description":"Need something made? Feel fre to contact me."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Adobe Photoshop / Illustrator",
+        "level":"80%"
+      },
+      {
+        "name":"CSS3",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"js / jquery",
+        "level":"60%"
+      },
+      {
+        "name":"React.js",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"MySQL",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Tentacle Sound",
+        "category": "Design , Frontend/Backend",
+        "appdescription":"My personal electronic music blog.",
+        "image":"tentaclesound.jpg",
+        "url":"http://tentaclesound.com"
+      },
+      {
+        "title":"Mood Music",
+        "category": "Design , Frontend/Backend",
+        "appdescription":"[Deprecated API] A web app that lets you hear what you feel. Facial recogniton and spotify playlsits, go try it!",
+        "image":"moodmusic.jpeg",
+        "url":"https://realsenses.github.io/mood-music/"
+      },
+      {
+        "title":"GIFxpression",
+        "category": "Design , Frontend/Backend",
+        "appdescription":"Express yourself with Gifs. Made using the Giphy API",
+        "image":"gifxpression.jpeg",
+        "url":"https://realsenses.github.io/Giphy-API/"
+      },
+      {
+        "title":"Electric Dreams",
+        "category": "Design , Frontend/Backend",
+        "appdescription":"Javascript RPG based around EDM Artists.",
+        "image":"electricdreams.jpeg",
+        "url":"https://realsenses.github.io/unit-4-game/"
+      },
+      {
+        "title":"Octopus Trivia ",
+        "category": "Design , Frontend/Backend",
+        "appdescription":"jQuery powered Octopus Trivia game. Will you sink or swim?",
+        "image":"octotrivia.jpeg",
+        "url":"https://realsenses.github.io/TriviaGame/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Testimonials for everyone! Just kidding, this is just for Andrew. He's the best.",
+        "user":"#1 Andrew Fan"
+      },
+      {
+        "text":"This guy really likes octopus and can do some cool things with computers!",
+        "user":"Some random person"
+      }
+    ]
+  }
+}
