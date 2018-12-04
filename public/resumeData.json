@@ -12,7 +12,7 @@
       "state":"Missouri"
     },
     "phone": "Email only for now",
-    "website": "http://www.website.com",
+    "website": "https://realsenses.github.io/portfolio",
     "social":[
       {
         "name":"twitter",
@@ -32,7 +32,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"What can I do? All kinds of things. ",
+    "skillmessage":"Here's some of my skills. ",
     "education":[
       {
         "school":"University of Kansas Coding Bootcamp",
@@ -80,7 +80,7 @@
       },
       {
         "name":"CSS3",
-        "level":"70%"
+        "level":"60%"
       },
       {
         "name":"HTML5",
@@ -88,19 +88,19 @@
       },
       {
         "name":"js / jquery",
-        "level":"60%"
+        "level":"50%"
       },
       {
         "name":"React.js",
-        "level":"60%"
+        "level":"50%"
       },
       {
         "name":"MongoDB",
-        "level":"50%"
+        "level":"40%"
       },
       {
         "name":"MySQL",
-        "level":"50%"
+        "level":"40%"
       }
     ]
   },
@@ -116,7 +116,7 @@
       {
         "title":"Mood Music",
         "category": "Design, Frontend/Backend code",
-        "appdescription":"[Deprecated API] A web app that lets you hear what you feel. Facial recogniton and spotify playlsits, go try it!",
+        "appdescription":"A web app that lets you hear what you feel. Facial recogniton and spotify playlsits, go try it!",
         "image":"moodmusic.jpeg",
         "url":"https://realsenses.github.io/mood-music/"
       },
@@ -126,6 +126,41 @@
         "appdescription":"Express yourself with Gifs. Made using the Giphy API",
         "image":"gifxpression.jpeg",
         "url":"https://realsenses.github.io/Giphy-API/"
+      },
+      {
+        "title":"Cyber Scraper",
+        "category": "Design, Code",
+        "appdescription":"A fully responsive news scraper that scrapes the top tech news from The Verge.",
+        "image":"cyberscraper.jpg",
+        "url":"https://cyber-scraper.herokuapp.com/"
+      },
+      {
+        "title":"New York Times Article Search",
+        "category": "Design, Code",
+        "appdescription":"MERN app NYT article search. Search and save articles from the NYT catalogue.",
+        "image":"newyorktimes.jpg",
+        "url":"https://nyt-reakt.herokuapp.com/"
+      },
+      {
+        "title":"Clicky",
+        "category": "Design, Code",
+        "appdescription":"A fun memory click game react.js application. Can you get all 12?",
+        "image":"clicky.jpg",
+        "url":"https://realsenses.github.io/clicky/"
+      },
+      {
+        "title":"Sushi Time!",
+        "category": "Design, Code, Sushi",
+        "appdescription":"Keep track of all the sushi you eat! Built using MySQL, Node, Express, and Handlebars.",
+        "image":"sushitime.jpg",
+        "url":"https://sushi--time.herokuapp.com/"
+      },
+      {
+        "title":"Find a Friend!",
+        "category": "Design, Code",
+        "appdescription":"Find your perfect imaginary friend! This web application takes in the results from a user survey, then compares their answers with those from an object containing imaginary people.",
+        "image":"findafriend.jpg",
+        "url":"https://node-find-a-friend.herokuapp.com/"
       },
       {
         "title":"Electric Dreams",
