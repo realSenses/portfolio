@@ -4,7 +4,7 @@
     "occupation":"Full Stack Web Dveloper",
     "description":"I create experiences",
     "image":"profilepic.jpg",
-    "bio":"Bio action goes here. Coming soon.",
+    "bio":"I'm a full stack web developer with a keen eye for design and a background in mental health. I believe in big ideas and bringing people together. I also love electronic music, sushi, and the pure bliss one finds in nature. ",
     "contactmessage":"Please contact me with any questions or oppurtunities",
     "email": "realSenses0@gmail.com",
     "address":{
@@ -96,11 +96,11 @@
       },
       {
         "name":"MongoDB",
-        "level":"40%"
+        "level":"45%"
       },
       {
         "name":"MySQL",
-        "level":"40%"
+        "level":"45%"
       }
     ]
   },
