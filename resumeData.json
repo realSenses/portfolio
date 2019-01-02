@@ -1,18 +1,19 @@
 {
   "main": {
-    "name":"Andrew",
+    "name":"Andrew Carr",
     "occupation":"Full Stack Web Dveloper",
     "description":"I create experiences",
     "image":"profilepic.jpg",
-    "bio":"I'm a full stack web developer with a keen eye for design and a background in mental health. I believe in big ideas and bringing people together. I also love electronic music, sushi, and the pure bliss one finds in nature. ",
+    "bio":"I'm a full stack web developer with a keen eye for design and a background in mental health. I believe in big ideas and bringing people together. I also love electronic music, sushi, philosophy, and the pure bliss one finds in nature. ",
     "contactmessage":"Please contact me with any questions or oppurtunities",
-    "email": "realSenses0@gmail.com",
+    "email": "andrew.richard.carr@gmail.com",
     "address":{
       "city":"Kansas City",
       "state":"Missouri"
     },
-    "phone": "Email only for now",
+    "phone": "478.731.8687",
     "website": "https://realsenses.github.io/portfolio",
+    "resumeDownload": "https://docs.google.com/document/d/1Z0FRzuIrBVNm-oSkDSc9rjZpvfn4mRyNHTnR1d7IiBY/edit?usp=sharing",
     "social":[
       {
         "name":"twitter",
@@ -88,11 +89,11 @@
       },
       {
         "name":"js / jquery",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"React.js",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"MongoDB",
@@ -114,10 +115,17 @@
         "url":"http://tentaclesound.com"
       },
       {
+        "title":"True That!",
+        "category": "Design, Backend, Frontened styling",
+        "appdescription":"Real time GIF party game to play with friends! Made with React, Express, MongoDB, Socket.io.",
+        "image":"truethat.jpg",
+        "url":"https://truethat.app"
+      },
+      {
         "title":"Mood Music",
         "category": "Design, Frontend/Backend code",
-        "appdescription":"A web app that lets you hear what you feel. Facial recogniton and spotify playlsits, go try it!",
-        "image":"moodmusic.jpeg",
+        "appdescription":"[DEPRECATED API] A web app that lets you hear what you feel. Facial recogniton and spotify playlsits, go try it!",
+        "image":"moodmusic.jpeg", 
         "url":"https://realsenses.github.io/mood-music/"
       },
       {
