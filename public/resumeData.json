@@ -50,28 +50,10 @@
     ],
     "work":[
       {
-        "company":"realSenses Web Development",
-        "title":"Visionary",
-        "years":"October 2018 - Present",
-        "description":"Create experiences. Defy expectations."
-      },
-      {
-        "company":"CMHS",
-        "title":"Community Support Specialist",
-        "years":"September 2018 - Present",
-        "description":"Provide vital resources to clients living with mental illness. Work with clients to determine their needs and how best to meet them."
-      },
-      {
-        "company":"TRBHS",
-        "title":"Lead Psychiatric Technician",
-        "years":"February 2014 - June 2018",
-        "description":"Responsible for Patient Safety, Therepeutic Education, Continual Service Excellence, and Team management."
-      },
-      {
-        "company":"H&H ColorLab",
-        "title":"Color Corrector and Photo Specialities Technician",
-        "years":"July 2012 - September 2013",
-        "description":"Quality Control and Digitial Photo Manipulation for photographic orders (weddings, freelance, etc)."
+        "company":"VinSolutions",
+        "title":"Software Engineer",
+        "years":"February 2019 - Present",
+        "description":"Fullstack engineer. Developed and maintained a company wide design system and component libary with integrated testing and tooling for developing react applications quickly and efficiently under a common design."
       }
     ],
     "skills":[
@@ -81,19 +63,19 @@
       },
       {
         "name":"CSS3",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"HTML5",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"js / jquery",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"React.js",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"MongoDB",
@@ -107,13 +89,6 @@
   },
   "portfolio":{
     "projects": [
-      {
-        "title":"Tentacle Sound",
-        "category": "Design, Code, Manage",
-        "appdescription":"My music blog curating upcoming electronic music.",
-        "image":"tentaclesound.jpg",
-        "url":"http://tentaclesound.com"
-      },
       {
         "title":"True That!",
         "category": "Design, Backend, Frontened styling",
